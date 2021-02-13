@@ -23,11 +23,15 @@
 
 ## Data Explorer
 
-### Kaggle
-
-  * cord_19_embeddings
-  * document_parses
-  * COVID.DATA.LIC.AGMT.pdf
+### Kaggle                   [https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?select=Kaggle](#)
+  
+  * cord_19_embeddings       [https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?select=cord_19_embeddings](#)
+  
+  * document_parses          [https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?select=document_parses](#)
+  
+  
+  * COVID.DATA.LIC.AGMT.pdf 
+  
   * json_schema.txt
   * metadata.csv
   * metadata.readme
