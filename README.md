@@ -13,3 +13,10 @@
 * Many of these questions are suitable for text mining, and we encourage researchers to develop text mining tools to provide insights on these questions.
 
 * We are maintaining a summary of the community's contributions. For guidance on how to make your contributions useful, we're maintaining a forum thread with the feedback we're getting from the medical and health policy communities.
+
+
+[https://www.kaggle.com/ironicninja/daily-covid-19-interactive-plots](#)
+
+* Use ***Covid-19*** Datasets .
+* This Project are daily bases programed are use .
+* Daily update cases tests etc, are the run program in aa live .
