@@ -20,3 +20,14 @@
 * Use ***Covid-19*** Datasets .
 * This Project are daily bases programed are use .
 * Daily update cases tests etc, are the run program in aa live .
+
+## Data Explorer
+
+### Kaggle
+
+  * cord_19_embeddings
+  * document_parses
+  * COVID.DATA.LIC.AGMT.pdf
+  * json_schema.txt
+  * metadata.csv
+  * metadata.readme
